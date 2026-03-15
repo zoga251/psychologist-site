@@ -271,8 +271,8 @@ p {
   .content-block {
     grid-template-columns: 1fr;
     text-align: center;
-    padding: 60px 20px;
-    gap: 32px;
+    padding: 20px 15px;
+    gap: 12px;
   }
 
   .content-block.reverse {
@@ -300,8 +300,8 @@ p {
   }
 
   .content-block:first-of-type {
-    padding-top: 50px;
-    padding-bottom: 70px;
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
   .hero-label {
     font-size: 1.6rem;
@@ -363,7 +363,7 @@ p {
     font-size: 1.05rem;
     letter-spacing: 0.18em;
     padding: 0 20px;
-    margin-bottom: 60px;
+    margin-bottom: 45px;
   }
 }
 .block {
@@ -396,7 +396,6 @@ p {
 }
 
 }
-
 
 }
 
