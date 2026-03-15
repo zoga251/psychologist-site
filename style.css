@@ -373,6 +373,17 @@ p {
 .block-text {
     margin-bottom: 10px;
 }
+@media (max-width: 768px) {
+
+.block {
+    padding: 30px 20px;
+}
+
+.container {
+    gap: 20px;
+}
+
+}
 
 
 }
