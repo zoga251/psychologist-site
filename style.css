@@ -366,6 +366,13 @@ p {
     margin-bottom: 60px;
   }
 }
+.block {
+    margin-bottom: 40px;
+}
+
+.block-text {
+    margin-bottom: 10px;
+}
 
 
 }
